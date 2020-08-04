@@ -1,5 +1,5 @@
-This project is part of the DockerHub image build setup for tests of
-the CBM DAQ CI/CD pipelines under GitLab.
+This project is part of the [DockerHub image](https://hub.docker.com/u/wfjm)
+build setup for tests of the CBM DAQ CI/CD pipelines under GitLab.
 
 It creates the OS base image with all required _apt installable_ packages
 for Ubuntu Focal (20.04 LTS) based tests. 
