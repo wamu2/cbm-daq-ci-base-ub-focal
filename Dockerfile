@@ -8,7 +8,7 @@ RUN apt-get update \
           zlib1g-dev \
           libboost-dev \
           libboost-chrono-dev libboost-system-dev libboost-timer-dev \
-          libzmq3-dev libcpprest-dev \
+          libcpprest-dev \
           python3 python3-dev python3-setuptools python3-pip \
           python3-zmq python3-msgpack \
     && apt-get clean \
