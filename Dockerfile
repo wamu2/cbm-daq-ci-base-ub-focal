@@ -5,6 +5,7 @@ RUN apt-get update \
           git cmake make \
           g++ \
           clang-10 clang-format-10 clang-tidy-10 \
+          expect \
           zlib1g-dev \
           libboost-dev \
           libboost-chrono-dev libboost-system-dev libboost-timer-dev \
