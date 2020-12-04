@@ -13,9 +13,8 @@ RUN apt-get update \
           zlib1g-dev \
           libboost-dev \
           libboost-chrono-dev libboost-system-dev libboost-timer-dev \
-          libcpprest-dev \
           python3 python3-dev python3-setuptools python3-pip \
-          python3-flake8 \
+          python3-flake8 python3-coverage python3-lxml \
           python3-zmq python3-msgpack \
           mypy \
     && apt-get clean \
